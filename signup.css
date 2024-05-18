@@ -1,0 +1,87 @@
+body{
+    background: url(https://cdn.discordapp.com/attachments/828368653820362772/1241194890415833269/pathology4.jpg?ex=66495052&is=6647fed2&hm=4d81ff289eba3c72352c86254cb2017a54aba810a642a17e91bab3391fc37fd2&);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 10px;
+    margin: 0;
+    padding: 0;
+}
+
+input{
+    background-color: brown;
+    padding: 3px;
+    color: aliceblue;
+    border: solid 1px black;
+    border-radius: 4px;
+    gap: 30px;
+}
+
+input.Texto{
+    background-color: aliceblue;
+    color: black;
+    border-color: brown;
+}
+
+a{
+    cursor: pointer;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bg{
+    background-color: rgb(119, 29, 29);
+    width: 300px;
+    height: 490px;
+    border-radius: 20px;
+}
+
+.usuarionome{
+    font-size: x-large;
+}
+
+.usuariosenha{
+    font-size: x-large; 
+}
+
+.usuarioemail{
+    font-size: x-large; 
+}
+
+input{
+    background-color: rgb(255, 255, 255);
+    color: aliceblue;
+    border: solid 1px black;
+    border-radius: 4px;
+}
+
+input.Texto{
+    height: 20px;
+    width: 250px;
+    padding: 3px;
+    background-color: aliceblue;
+    color: black;
+    border-color: rgb(0, 0, 0);
+}
+
+input.submit{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 10px;
+    color: black;
+    padding: 3px;
+    margin-top: 10px;
+    width: 45px;
+    margin-bottom: 10px;
+}
